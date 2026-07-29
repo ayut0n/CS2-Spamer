@@ -1,3 +1,0 @@
-D:/github_projects/CS2-Spamer/build/CMakeFiles/CS2-Spamer.dir
-D:/github_projects/CS2-Spamer/build/CMakeFiles/edit_cache.dir
-D:/github_projects/CS2-Spamer/build/CMakeFiles/rebuild_cache.dir

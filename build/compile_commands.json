@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/github_projects/CS2-Spamer/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -O3 -o CMakeFiles\\CS2-Spamer.dir\\main.cpp.obj -c D:\\github_projects\\CS2-Spamer\\main.cpp",
-  "file": "D:/github_projects/CS2-Spamer/main.cpp",
-  "output": "CMakeFiles/CS2-Spamer.dir/main.cpp.obj"
-}
-]

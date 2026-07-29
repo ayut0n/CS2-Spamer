@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\CS2-Spamer.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\CS2-Spamer.dir/objects.a @CMakeFiles\CS2-Spamer.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG -static-libgcc -static-libstdc++ -static -s -Wl,--whole-archive CMakeFiles\CS2-Spamer.dir/objects.a -Wl,--no-whole-archive -o CS2-Spamer.exe -Wl,--out-implib,libCS2-Spamer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CS2-Spamer.dir\linkLibs.rsp
